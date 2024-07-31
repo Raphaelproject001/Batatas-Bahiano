@@ -33,7 +33,7 @@
             padding: 20px;
         }
         .hero {
-            background-image: url('batata.jpg'); /* Substitua com o caminho da sua imagem */
+            background-image: url('batata.jpg'); /* https://photos.google.com/share/AF1QipNMQ5rn66rPeYYzoCShifHiFPG2HarU9i5fRc4Xulyk2muVc7iYyqyPd1VfBDAQMw?key=QU5obmZ2Wms2Yk11ek53VnJxcXFCSUJrYXZ4TVRB */
             background-size: cover;
             color: white;
             text-align: center;
